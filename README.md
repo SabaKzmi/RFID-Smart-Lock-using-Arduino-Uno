@@ -9,11 +9,11 @@ Start by installing the MFRC522 library in the Arduino IDE. Next, run the DumpIn
 |Green LED | 7|
 |Red LED |  4|
 |Lock (yellow wire) | 2|
-|RST(MFRC522) | 9|
-|SPI SS(MFRC522) | 10|
-|SPI MOSI(MFRC522) | 11|
-|SPI MISO(MFRC522) | 12|
-|SPI SCK(MFRC522) | 13|
+|RST (MFRC522) | 9|
+|SPI SS (MFRC522) | 10|
+|SPI MOSI (MFRC522) | 11|
+|SPI MISO (MFRC522) | 12|
+|SPI SCK (MFRC522) | 13|
 
 **lock configuration:**
 <p align="center">
