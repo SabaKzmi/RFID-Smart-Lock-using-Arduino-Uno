@@ -11,5 +11,5 @@ If the card is unrecognized, access is denied, and a different LED indicates the
 - SPI MISO : pin 12
 - SPI SCK : 13
 <p align="center">
-  <img src="https://github.com/SabaKzmi/RFID-Smart-Lock-using-Arduino-Uno/blob/49b6291550c703c551bcd46845d6de2f7427d005/pictures/config.png" alt="configurations" />
+  <img src="https://github.com/SabaKzmi/RFID-Smart-Lock-using-Arduino-Uno/blob/49b6291550c703c551bcd46845d6de2f7427d005/pictures/config.png" alt="configurations" width=500 />
 </p>  
