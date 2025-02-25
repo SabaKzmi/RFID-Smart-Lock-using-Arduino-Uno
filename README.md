@@ -4,13 +4,15 @@ If the card is unrecognized, access is denied, and a different LED indicates the
 ## How to Use
 Start by installing the MFRC522 library in the Arduino IDE. Next, run the DumpInfo example code from the Examples menu. You can then retrieve a card's ID by holding it in front of the RFID reader. To register and grant access, add the ID to the knownUID array in the code.
 ### Configuration
-|Green LED | pin 7|
-|Red LED | pin 4|
-|Lock (yellow wire) | pin 2|
-|RST(MFRC522) | pin 9|
-|SPI SS(MFRC522) | pin 10|
-|SPI MOSI(MFRC522) | pin 11|
-|SPI MISO(MFRC522) | pin 12|
+|Components | Pin Number|
+|---------- | ----------|
+|Green LED | 7|
+|Red LED |  4|
+|Lock (yellow wire) | 2|
+|RST(MFRC522) | 9|
+|SPI SS(MFRC522) | 10|
+|SPI MOSI(MFRC522) | 11|
+|SPI MISO(MFRC522) | 12|
 |SPI SCK(MFRC522) | 13|
 
 **lock configuration:**
